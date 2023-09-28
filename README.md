@@ -14,9 +14,3 @@ Até o final do horário da aula 😄 (entregue até onde conseguiu fazer)
 ### ✅ Tarefas
 
 - [ ]  Crie testes para validar que as regras da feirinha da Dona Marlene estão funcionando.
-
-## 🚚 Entrega da prática
-
-- Por favor, apenas uma entrega por dupla!
-
-[T10 | Onboarding - Entregas de Práticas](https://respondea.typeform.com/to/QkVku8ar)
